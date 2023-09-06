@@ -1,1 +1,2 @@
-console.log("Hello, world!");
+const name = prompt()
+console.log(`Hello, ${name}!`);
